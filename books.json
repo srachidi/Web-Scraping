@@ -1,0 +1,42 @@
+[
+    {
+        "title": "L'étranger",
+        "author": "Albert Camus"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "title": "Le vieil homme et la mer",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "title": "Orgueil et Préjugés",
+        "author": "Jane Austen"
+    },
+    {
+        "title": "Le Seigneur des Anneaux",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "title": "Cent ans de solitude",
+        "author": "Gabriel García Márquez"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo"
+    },
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry"
+    },
+    {
+        "title": "Crime et Châtiment",
+        "author": "Fiodor Dostoïevski"
+    }
+]
